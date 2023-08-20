@@ -58,7 +58,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Safari problems](https://stackoverflow.com/questions/60192601/object-fit-cover-not-working-correctly-on-safari)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
