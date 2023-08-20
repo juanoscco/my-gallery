@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/JuanOsccoMori/my-gallery/assets/58866695/67bb3bc1-f948-430a-a090-8a30d2bbafc9)
 
 This challenge was easier to do, it took me half an hour, I thank this page for making me put my html and css skills into practice
 
